@@ -3,7 +3,7 @@
 
 Docker is a platform and set of tools designed to make it easier to create, deploy, and run applications using containers. Containers are lightweight, portable, and self-sufficient units that can encapsulate an application and its dependencies. Docker provides a standardized way to package, distribute, and manage these containers, making it simpler to develop, deploy, and scale applications across different environments.
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 * Key components of Docker include:
@@ -22,7 +22,7 @@ Docker Hub: A cloud-based registry service provided by Docker, where users can f
 Docker simplifies the deployment process by eliminating the "it works on my machine" problem, as containers ensure consistency across development, testing, and production environments. It has gained widespread popularity in the software development and IT communities due to its flexibility, efficiency, and ease of use
 
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 * Why docker is used ?
@@ -41,7 +41,7 @@ Efficiency: Docker containers are lightweight and share the host system's operat
 Isolation: Docker provides a level of isolation between containers, ensuring that applications running in different containers do not interfere with each other. This enhances security and makes it easier to manage dependencies and versioning.
 
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * How Does Docker Work?
 
