@@ -1,4 +1,4 @@
-What is docker ?
+* What is docker ?
 
 
 Docker is a platform and set of tools designed to make it easier to create, deploy, and run applications using containers. Containers are lightweight, portable, and self-sufficient units that can encapsulate an application and its dependencies. Docker provides a standardized way to package, distribute, and manage these containers, making it simpler to develop, deploy, and scale applications across different environments.
@@ -6,7 +6,7 @@ Docker is a platform and set of tools designed to make it easier to create, depl
 
 
 
-Key components of Docker include:
+* Key components of Docker include:
 
 
 Docker Engine: The core software responsible for building and running containers. It includes a daemon process, REST API, and a command-line interface (CLI) that allows users to interact with Docker.
@@ -25,7 +25,7 @@ Docker simplifies the deployment process by eliminating the "it works on my mach
 
 
 
-Why docker is used ?
+* Why docker is used ?
 
 
 There are several reasons why Docker has gained popularity or Why docker is used:
@@ -43,7 +43,7 @@ Isolation: Docker provides a level of isolation between containers, ensuring tha
 
 
 
-How Does Docker Work?
+* How Does Docker Work?
 
 
 At the core of Docker is the Docker engine, which is responsible for building and running containers. The Docker engine uses a client-server architecture, where the Docker client communicates with the Docker daemon (server) to perform various operations.
